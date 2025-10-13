@@ -137,5 +137,6 @@ This project is released under the [MIT License](./LICENSE).
 ## Acknowledgments
 Special thanks to:
 - Myself, for sticking with the task.
+- The requirments have changed.
 
 ---
